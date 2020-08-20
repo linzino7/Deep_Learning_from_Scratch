@@ -1,5 +1,7 @@
 # Deep_Learning_from_Scratch
-Deep Learning：用Python進行深度學習的基礎理論實作
+Deep Learning：用Python進行深度學習的基礎理論實作。
+
+本Rep 為看書筆記。
 
 ## 第二章 感知器
 AND OR NAND 都可以被感知器實作。
