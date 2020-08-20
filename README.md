@@ -1,0 +1,2 @@
+# Deep_Learning_from_Scratch
+Deep Learning：用Python進行深度學習的基礎理論實作
