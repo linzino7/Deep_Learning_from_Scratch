@@ -33,5 +33,11 @@ OR  ---|
 
 使用線性函數時，無法發揮多層結構的優點
 
+### 第四章 神經網路學習
+模型重點是一般化能力。
+
+一般化(Generalization) 是指讓模型可以廣泛應用到各種場僅，而不至於只能分辨特殊資料。
+也不會 過度擬合(overfitting)。
+
 # Reference
 https://github.com/oreilly-japan/deep-learning-from-scratch
