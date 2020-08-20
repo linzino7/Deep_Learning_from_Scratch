@@ -25,5 +25,13 @@ OR  ---|
 
 避免電腦溢位所以才需要取 log C 讓電腦可以計算執行。
 
+### 3.2.6 非線性函數
+
+如果當Activate Function 都是線性時，堆疊感知器將會沒有意義。
+
+當h(x) = cx ， y(x) = h(h(h(x)))。 就只是 y= c^3 * X ，所以就會直接傳遞過去(無隱藏層) 。
+
+使用線性函數時，無法發揮多層結構的優點
+
 # Reference
 https://github.com/oreilly-japan/deep-learning-from-scratch
