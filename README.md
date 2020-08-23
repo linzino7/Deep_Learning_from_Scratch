@@ -39,5 +39,10 @@ OR  ---|
 一般化(Generalization) 是指讓模型可以廣泛應用到各種場僅，而不至於只能分辨特殊資料。
 也不會 過度擬合(overfitting)。
 
+### 4.3.3  Geradient Decent
+geradient_decent.py
+![](https://i.imgur.com/CWZHyUt.png)
+
+
 # Reference
 https://github.com/oreilly-japan/deep-learning-from-scratch
