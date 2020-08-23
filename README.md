@@ -41,6 +41,7 @@ OR  ---|
 
 ### 4.3.3  Geradient Decent
 geradient_decent.py
+
 ![](https://i.imgur.com/CWZHyUt.png)
 
 
